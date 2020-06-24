@@ -1,11 +1,12 @@
 # VisualG_Programa
 
 
-> Programa desenvolvido com base as aulas no site Curso em Video
-> Concluído em Janeiro de 2020
+> Programa desenvolvido com base nas aulas do site Curso em Video.
+> Concluído em Janeiro de 2020.
 
 
 # Descrição do Projeto
+
 
 > Funcionalidades
 
@@ -21,7 +22,9 @@
  
  ![VisualG](/img/visualg.png)
  
- #Conteúdos abordados
+ 
+ # Conteúdos abordados
+ 
  
  > Algoritmos
  
