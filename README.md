@@ -1,4 +1,4 @@
-# VisualG_Programa
+# Algoritmo
 
 
 > Programa desenvolvido com base nas aulas do site Curso em Video.
@@ -16,11 +16,11 @@
   
  - Todas as aulas compactadas em um programa
  
- ![VisualG](/img/visual01.png)
+   ![VisualG](/img/visual01.png)
  
  - Navegação do conteúdo
  
- ![VisualG](/img/visualg.png)
+   ![VisualG](/img/visualg.png)
  
  
  # Conteúdos abordados
