@@ -9,16 +9,27 @@
 
 > Funcionalidades
 
-*Interação com o Usuário
+- Interação com o Usuário
 
-  ![VisualG](/img/visualg00.png)
+  ![VisualG](/img/visual00.png)
   
- *Todas as aulas compactadas em um programa
+ - Todas as aulas compactadas em um programa
  
- ![VisualG](/img/visualg01.png)
+ ![VisualG](/img/visual01.png)
  
- *Navegação do conteúdo
+ - Navegação do conteúdo
  
  ![VisualG](/img/visualg.png)
+ 
+ #Conteúdos abordados
+ 
+ > Algoritmos
+ 
+ 1) Princípios Básicos
+ 2) Condicionais
+ 3) Repetição
+ 4) Rotina
+ 5) Vetores
+ 6) Matrizes
  
  
